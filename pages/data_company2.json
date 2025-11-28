@@ -1,0 +1,98 @@
+{
+    "articles": {
+      "cotton": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Red", "Blue", "Green"] 
+      },
+      "linen": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["White", "Beige", "Cream"]
+      },
+      "silk": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Gold", "Silver", "Black"]
+      },
+      "wool": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Gray", "Brown", "Black"]
+      },
+      "polyester": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Pink", "Purple", "Orange"]
+      },
+      "nylon": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Blue", "Gray", "White"]
+      },
+      "denim": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Dark Blue", "Light Blue", "Black"]
+      },
+      "velvet": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Red", "Purple", "Dark Green"]
+      },
+      "rayon": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Pink", "Lavender", "White"]
+      },
+      "chiffon": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Peach", "Pastel Green", "Baby Blue"]
+      },
+      "satin": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Burgundy", "White", "Ivory"]
+      },
+      "leather": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Brown", "Black", "Beige"]
+      },
+      "suede": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Camel", "Taupe", "Olive"]
+      },
+      "fleece": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Gray", "White", "Blue"]
+      },
+      "taffeta": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Black", "Gold", "Emerald"]
+      },
+      "corduroy": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Rust", "Beige", "Charcoal"]
+      },
+      "tweed": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Brown", "Gray", "Olive"]
+      },
+      "spandex_lycra": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Black", "Pink", "Red"]
+      },
+      "cashmere": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Light Gray", "White", "Cream"]
+      },
+      "brocade": {
+        "type_teinture": ["Direct", "Reactif"],
+        "code_couleur": ["Gold", "Red", "Purple"]
+      }
+    },
+    "Client":[
+        "Armani",
+        "Versace",
+        "Gucci",
+        "Prada",
+        "Chanel",
+        "Louis Vuitton",
+        "Ralph Lauren",
+        "Burberry",
+        "Tommy Hilfiger",
+        "Calvin Klein"
+
+    ]
+  }
+  
